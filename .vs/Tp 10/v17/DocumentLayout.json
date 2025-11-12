@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|d:\\uai\\2025\\2do cuatri\\programacion y estructura de datos\\tp 10\\tp 10\\tp 9 parte 2\\manejo de directorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejo de directorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejo de directorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejo de directorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\clases\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\clases\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejonotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\clases\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\clases\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejoalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\tp 9 parte 2\\manejoalumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93419E-84FE-4BBA-9AF0-049D3DCCE5DA}|Tp 9 Parte 2\\Tp 10.csproj|solutionrelative:tp 9 parte 2\\manejoalumnos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Clases\\Notas.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\Clases\\Notas.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Clases\\Notas.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\Clases\\Notas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:54:35.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Clases\\Alumnos.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\Clases\\Alumnos.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Clases\\Alumnos.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\Clases\\Alumnos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADgvx0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:49:22.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manejo de directorios.cs [Design]",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Manejo de directorios.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\Manejo de directorios.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Manejo de directorios.cs [Design]",
+              "RelativeToolTip": "Tp 9 Parte 2\\Manejo de directorios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:02:03.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manejo de directorios.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Manejo de directorios.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\Manejo de directorios.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\Manejo de directorios.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\Manejo de directorios.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwFIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:02:03.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManejoNotas.cs [Design]",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoNotas.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\ManejoNotas.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoNotas.cs [Design]",
+              "RelativeToolTip": "Tp 9 Parte 2\\ManejoNotas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:11:41.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManejoNotas.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoNotas.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\ManejoNotas.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoNotas.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\ManejoNotas.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAApwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:11:47.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManejoAlumnos.cs [Design]",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.cs [Design]",
+              "RelativeToolTip": "Tp 9 Parte 2\\ManejoAlumnos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:12:28.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManejoAlumnos.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\ManejoAlumnos.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwLcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:12:21.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManejoAlumnos.Designer.cs",
+              "DocumentMoniker": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.Designer.cs",
+              "RelativeDocumentMoniker": "Tp 9 Parte 2\\ManejoAlumnos.Designer.cs",
+              "ToolTip": "D:\\UAI\\2025\\2do Cuatri\\Programacion y estructura de datos\\Tp 10\\Tp 10\\Tp 9 Parte 2\\ManejoAlumnos.Designer.cs",
+              "RelativeToolTip": "Tp 9 Parte 2\\ManejoAlumnos.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:32:49.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
